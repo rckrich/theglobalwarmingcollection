@@ -8,7 +8,7 @@
         frameworkUrl: buildUrl + "/NorthFace_WebGL.framework.js",
         codeUrl: buildUrl + "/NorthFace_WebGL.wasm",
         streamingAssetsUrl: "StreamingAssets",
-        companyName: "DefaultCompany",
+        companyName: "RCK Games",
         productName: "NorthFace_Web",
         productVersion: "1.0",
     };
