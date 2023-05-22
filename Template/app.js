@@ -2,11 +2,11 @@
     
     //UNITY STUFF
     var buildUrl = "Build";
-    var loaderUrl = buildUrl + "/Unity_NorthFace_WebGL_2.loader.js";
+    var loaderUrl = buildUrl + "/Build_Unity_NorthFace_WebGL.loader.js";
     var config = {
-        dataUrl: buildUrl + "/Unity_NorthFace_WebGL_2.data",
-        frameworkUrl: buildUrl + "/Unity_NorthFace_WebGL_2.framework.js",
-        codeUrl: buildUrl + "/Unity_NorthFace_WebGL_2.wasm",
+        dataUrl: buildUrl + "/Build_Unity_NorthFace_WebGL.data",
+        frameworkUrl: buildUrl + "/Build_Unity_NorthFace_WebGL.framework.js",
+        codeUrl: buildUrl + "/Build_Unity_NorthFace_WebGL.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "RCK Games",
         productName: "NorthFace_Web",
